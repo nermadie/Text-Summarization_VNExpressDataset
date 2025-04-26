@@ -1,5 +1,5 @@
 ---
-title: TextSummarize ViT5
+title: TextSummarize t5-small
 emoji: 📊
 colorFrom: blue
 colorTo: yellow
@@ -10,8 +10,8 @@ pinned: false
 license: other
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 Reference:
 ![image](https://github.com/user-attachments/assets/66d803bf-402c-460b-8269-a1bd86d23b82)
 Result:
-![image](https://github.com/user-attachments/assets/7152f841-8786-4018-b6dd-98aeb29062f2)
+![image](https://github.com/user-attachments/assets/39cd8ce9-438b-49a2-bf0d-ef1356d992fb)
+
